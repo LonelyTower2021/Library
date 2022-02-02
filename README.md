@@ -1,0 +1,1 @@
+Library App for the Odin Project Javascript Course.
